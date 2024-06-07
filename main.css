@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  border: 0.5rem solid #000;
+  border-radius: 100%;
+}
