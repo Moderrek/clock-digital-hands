@@ -60,7 +60,7 @@ const draw = () => {
   // Draw second hand
   const sf = 12;
   const sfs = 4;
-  const sl = 6;
+  const sl = 10;
   ctx.font = `${relative(sf)}px Arial Light`;
   const s = d.getSeconds();
   const sp = d.getSeconds() / 60;
@@ -74,7 +74,7 @@ const draw = () => {
   }
 
   // Draw minute hand
-  const mf = 15;
+  const mf = 18;
   const mfs = 4;
   const ml = 7;
   ctx.font = `${relative(mf)}px Arial`;
@@ -91,8 +91,8 @@ const draw = () => {
 
   // Draw hour hand
   const hf = 18;
-  const hfs = 5;
-  const hl = 7;
+  const hfs = 0;
+  const hl = 5;
   ctx.font = `${relative(hf)}px Arial Black`;
   const h = d.getHours();
   const hp = (h % 12) / 12;
