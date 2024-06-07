@@ -1,8 +1,8 @@
 # 🕓 Clock Digital Hands
 
-An online analog clock created using canvas, which instead of hands has digits arranged in the shape of hands.
+An online **analog clock** created using canvas, which **instead of hands has digits** arranged in the shape of hands.
 
-You can visit here.
+You can visit [HERE](https://moderrek.github.io/clock-digital-hands/).
 
 ## 📷 Screenshots
 
