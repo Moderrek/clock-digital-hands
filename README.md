@@ -6,7 +6,7 @@ You can visit [HERE](https://moderrek.github.io/clock-digital-hands/).
 
 ## 📷 Screenshots
 
-![image](https://github.com/Moderrek/clock-digital-hands/assets/16192262/5a0a9b21-5d0f-4c6d-8ab1-bf827e66d688)
+![gif](./images/clock.gif)
 
 ## © License
 
